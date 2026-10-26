@@ -1,6 +1,6 @@
 document.querySelectorAll('audio').forEach((audio, i) => {
   const songs = [
-    'song1.mp3',
+    '君が好き.mp3',
     'あなたと染まりたい.mp3',
     '壊さない為の距離.mp3'
   ];
